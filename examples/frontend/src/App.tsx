@@ -26,6 +26,8 @@ function LandingPage() {
             <p>
               TUTORIAL
               1. Click 'Try it'
+              </p>
+            <p>
               2. Create Your Name Allow List
               3. Add New Sui Wallet
               4. Select Walrus service
