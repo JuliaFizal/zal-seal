@@ -104,7 +104,7 @@ function App() {
   return (
     <Container>
       <Flex position="sticky" px="4" py="2" justify="between">
-        <h1 className="text-4xl font-bold m-4 mb-8">SealSui Tesnet by KavalreRZQ(JuliaFizal)</h1>
+        <h1 className="text-4xl font-bold m-4 mb-8">SealSui Tesnet by KavalreRZQ/zal</h1>
         {/* <p>TODO: add seal logo</p> */}
         <Box>
           <ConnectButton />
