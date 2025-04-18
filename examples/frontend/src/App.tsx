@@ -59,14 +59,20 @@ function LandingPage() {
       <Card>
         <Flex direction="column" gap="2" align="center" style={{ height: '100%' }}>
           <div style={{ textAlign: 'center' }}>
-            <h2>Subscription Example</h2>
+            <h2>TRY Subscription</h2>
             <p>
-              Shows how a creator can define a subscription based access to its published files. The
-              creator defines subcription fee and how long a subscription is valid for. The creator
-              can then associate encrypted files to the service. Only users who have purchased a
-              subscription (NFT) have access to decrypt the files, along with the condition that the
-              subscription must not have expired (i.e. the subscription creation timestamp plus the
-              TTL is smaller than the current clock time).
+              1. Click 'Try it'
+              2. Enter Price in Mist
+              3. Subscription duration in minutes
+              4. Name of the Service
+
+5. Click Create Service
+              
+6. Click 'this link'
+
+7. Click and Download Decrypt
+
+8. Done
             </p>
           </div>
           <Link to="/subscription-example">
