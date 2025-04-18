@@ -62,17 +62,20 @@ function LandingPage() {
             <h2>TRY Subscription</h2>
             <p>
               1. Click 'Try it'
+              <p>
               2. Enter Price in Mist
+              <p> 
               3. Subscription duration in minutes
+              <p>
               4. Name of the Service
-
-5. Click Create Service
-              
-6. Click 'this link'
-
-7. Click and Download Decrypt
-
-8. Done
+              <p> 
+              5. Click Create Service
+              <p>
+              6. Click 'this link'
+              <p>  
+              7. Click and Download Decrypt
+              <p>
+              8. DONE.
             </p>
           </div>
           <Link to="/subscription-example">
