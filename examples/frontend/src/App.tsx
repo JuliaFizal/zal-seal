@@ -61,20 +61,30 @@ function LandingPage() {
           <div style={{ textAlign: 'center' }}>
             <h2>TRY Subscription</h2>
             <p>
+              TUTORIAL
+              <p>
+           <p>
               1. Click 'Try it'
               <p>
+           <p>
               2. Enter Price in Mist
-              <p> 
+              <p>
+           <p>
               3. Subscription duration in minutes
               <p>
+           <p>
               4. Name of the Service
-              <p> 
+              <p>
+           <p>
               5. Click Create Service
               <p>
+           <p>
               6. Click 'this link'
-              <p>  
+              <p>
+           <p>
               7. Click and Download Decrypt
               <p>
+           <p>
               8. DONE.
             </p>
           </div>
