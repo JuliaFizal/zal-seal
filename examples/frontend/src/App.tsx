@@ -62,29 +62,29 @@ function LandingPage() {
             <h2>TRY Subscription</h2>
             <p>
               TUTORIAL
-              <p>
-           <p>
+              </p>
+            <p>
               1. Click 'Try it'
-              <p>
-           <p>
+              </p>
+            <p>
               2. Enter Price in Mist
-              <p>
-           <p>
+              </p>
+            <p>
               3. Subscription duration in minutes
-              <p>
-           <p>
+              </p>
+            <p>
               4. Name of the Service
-              <p>
-           <p>
+              </p>
+            <p>
               5. Click Create Service
-              <p>
-           <p>
+              </p>
+            <p>
               6. Click 'this link'
-              <p>
-           <p>
+              </p>
+            <p>
               7. Click and Download Decrypt
-              <p>
-           <p>
+              </p>
+            <p>
               8. DONE.
             </p>
           </div>
@@ -104,7 +104,7 @@ function App() {
   return (
     <Container>
       <Flex position="sticky" px="4" py="2" justify="between">
-        <h1 className="text-4xl font-bold m-4 mb-8">SealSui Tesnet by KavalreRZQ</h1>
+        <h1 className="text-4xl font-bold m-4 mb-8">SealSui Tesnet by KavalreRZQ(JuliaFizal)</h1>
         {/* <p>TODO: add seal logo</p> */}
         <Box>
           <ConnectButton />
